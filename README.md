@@ -67,10 +67,9 @@ I'm a passionate Fullstack Web Developer, currently diving into the world of Nex
 
 ## Let's Connect!
 
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) - (https://www.linkedin.com/in/vitalii-dimov)
-- ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white) - (https://t.me/dimov_vitalii)
-- ![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white) - (glushuk@ukr.net)
-
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitalii-dimov) - https://www.linkedin.com/in/vitalii-dimov
+- [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/dimov_vitalii) - https://t.me/dimov_vitalii
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:glushuk@ukr.net) - glushuk@ukr.net
 
 
 Feel free to explore my repositories and don't hesitate to connect! 😊
