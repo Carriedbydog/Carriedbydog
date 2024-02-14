@@ -59,10 +59,11 @@ I'm a passionate Fullstack Web Developer, currently diving into the world of Nex
 
 ## My Stats
 
-[![Codewars](https://www.codewars.com/users/Carriedbydog/badges/small)](https://www.codewars.com/users/Carriedbydog)
+[![Codewars](https://www.codewars.com/users/Carriedbydog/badges/small)](https://www.codewars.com/users/Carriedbydog) 
 <img align='right' height="250" src="https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=790b7611lei7av6oyqemi3wdatyb7n730gmogp8239nysjtr&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carriedbydog&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carriedbydog&show_icons=true&theme=radical) ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Carriedbydog)
+
 
 
 ## Let's Connect!
